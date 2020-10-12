@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/raslb/CLionProjects/ITMO/C++Sect/Junior/main.cpp
+iostream
+-
+fstream
+-
+vector
+-
+string
+-
+ctime
+-
+unordered_map
+-
+unordered_set
+-
+

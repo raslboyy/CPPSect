@@ -1,0 +1,3 @@
+C:/Users/raslb/CLionProjects/ITMO/C++Sect/Junior/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/raslb/CLionProjects/ITMO/C++Sect/Junior/cmake-build-debug/CMakeFiles/Junior.dir
+C:/Users/raslb/CLionProjects/ITMO/C++Sect/Junior/cmake-build-debug/CMakeFiles/rebuild_cache.dir
